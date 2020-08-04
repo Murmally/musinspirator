@@ -1,0 +1,2 @@
+# musinspirator
+Music Inspiration Generator
